@@ -27,15 +27,13 @@
 
 ## 📊 GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intellectualtech&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&contrib=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intellectualtech&layout=compact&theme=dracula&hide_border=true)
 ---
 
 ## 🏆 Featured Projects
 
-![Project Animation](https://media.giphy.com/media/3o7TKsQ8kcvKX2fK48/giphy.gif)  
-*Check out my pinned repositories below or explore my [projects](https://github.com/intellectualtech?tab=repositories)!*
+ 
+*Check out my pinned repositories below !*
 
 ---
 
