@@ -39,7 +39,7 @@
 
 ## 📚 Hugging Face Profile
 
-[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-FF70A6?logo=huggingface&style=for-the-badge&labelColor=FF70A6&animation=blink" alt="Hugging Face">](https://huggingface.co/YOUR_USERNAME)  
+[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-FF70A6?logo=huggingface&style=for-the-badge&labelColor=FF70A6&animation=blink" alt="Hugging Face">](https://huggingface.co/1ntellectualtech43)  
 *Explore my machine learning models, datasets, and AI experiments on Hugging Face!*
 
 ---
