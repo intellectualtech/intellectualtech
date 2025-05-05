@@ -37,6 +37,13 @@
 
 ---
 
+## 📚 Hugging Face Profile
+
+[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-FF70A6?logo=huggingface&style=for-the-badge&labelColor=FF70A6&animation=blink" alt="Hugging Face">](https://huggingface.co/YOUR_USERNAME)  
+*Explore my machine learning models, datasets, and AI experiments on Hugging Face!*
+
+---
+
 ## 📬 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge&labelColor=0A66C2&animation=blink" alt="LinkedIn">](https://www.linkedin.com/in/david-david-800322283/)
