@@ -1,4 +1,4 @@
-# 👋 Hi there!
+
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Welcome+to+intellectualtech!;A+place+for+code,+creativity,+and+tech+adventures!)
 
