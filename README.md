@@ -4,7 +4,7 @@
 
 
 
-## 🌟 About Me
+## 🌟 Hi, I'm David David
 
 - 🔭 **Currently working on**: Building innovative tech solutions.  
 - 🌱 **Currently learning**: Cutting-edge frameworks and tools.    
