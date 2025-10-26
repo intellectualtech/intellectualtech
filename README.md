@@ -9,7 +9,7 @@
 - 🔭 **Currently working on**: Building innovative tech solutions.  
 - 🌱 **Currently learning**: Cutting-edge frameworks and tools.    
 - 💬 **Ask me about**: Code, tech, or geeky trivia!   
-- ⚡ **Fun fact**: I coded an Ai teacher within 48 hours! 🤖
+- ⚡ **Fun fact**: I coded & train an Ai teacher within 48 hours! 🤖
 
 ---
 
